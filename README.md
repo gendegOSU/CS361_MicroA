@@ -70,3 +70,7 @@ NOTE: If no search terms or ingredients are passed, the following error message 
 NOTE: If the API is not able to find any of your ingredients, the following error message will be returned "We couldn't match any of your foods"
 
 NOTE: If only some ingredients are found, only the identified ingredients will be returned
+
+**UML sequence diagram:**
+
+![UML sequence diagram](UML.PNG)
